@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4FA729AE-D4F1-4FC3-BAD9-B68C281744F9</key>
+		<key>1756E3C3-B279-46D5-9F2D-8D71466EB006</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,63 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4FA729AE-D4F1-4FC3-BAD9-B68C281744F9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC92aWxhXC9EZXNrdG9wXC9Db2ZmZWUgQ3JlZWtcL0NvZmZlZSBDcmVlay54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>721527678.13170898</real>
-			<key>timeStoppedRecording</key>
-			<real>721527689.54928899</real>
-			<key>title</key>
-			<string>Build for Previews Coffee Creek</string>
-			<key>uniqueIdentifier</key>
-			<string>4FA729AE-D4F1-4FC3-BAD9-B68C281744F9</string>
-		</dict>
-		<key>78996C4D-68BF-4BD1-B15A-8DABF22F65FD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>78996C4D-68BF-4BD1-B15A-8DABF22F65FD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC92aWxhXC9EZXNrdG9wXC9Db2ZmZWUgQ3JlZWtcL0NvZmZlZSBDcmVlay54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>721534110.32634604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build for Previews Coffee Creek</string>
-			<key>uniqueIdentifier</key>
-			<string>78996C4D-68BF-4BD1-B15A-8DABF22F65FD</string>
-		</dict>
-		<key>8DB8B6DE-6D52-40FB-B742-95CF4309132C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8DB8B6DE-6D52-40FB-B742-95CF4309132C.xcactivitylog</string>
+			<string>1756E3C3-B279-46D5-9F2D-8D71466EB006.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,15 +26,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3ZpbGFcL0Rlc2t0b3BcL0NvZmZlZSBDcmVla1wvQ29mZmVlIENyZWVrLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMzgyMTE1MzEyQjAxQTM3NzAwQjlCRTgwIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>721527678.13170898</real>
+			<real>721534110.32634604</real>
 			<key>timeStoppedRecording</key>
-			<real>721527689.54928899</real>
+			<real>721534111.36585295</real>
 			<key>title</key>
 			<string>Build for Previews Coffee Creek</string>
 			<key>uniqueIdentifier</key>
-			<string>8DB8B6DE-6D52-40FB-B742-95CF4309132C</string>
+			<string>1756E3C3-B279-46D5-9F2D-8D71466EB006</string>
 		</dict>
-		<key>B9DFC36B-659A-4AE4-B2E6-DAFF52ECEC35</key>
+		<key>37F6EC43-5A9C-4A49-BAE4-7DED46FFA048</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B9DFC36B-659A-4AE4-B2E6-DAFF52ECEC35.xcactivitylog</string>
+			<string>37F6EC43-5A9C-4A49-BAE4-7DED46FFA048.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -110,13 +54,13 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>721527678.13170898</real>
+			<real>721534110.32634604</real>
 			<key>timeStoppedRecording</key>
-			<real>721527689.54928899</real>
+			<real>721534111.36585295</real>
 			<key>title</key>
 			<string>Build for Previews Coffee Creek</string>
 			<key>uniqueIdentifier</key>
-			<string>B9DFC36B-659A-4AE4-B2E6-DAFF52ECEC35</string>
+			<string>37F6EC43-5A9C-4A49-BAE4-7DED46FFA048</string>
 		</dict>
 		<key>BA194DB0-760A-4B00-9DBF-AAA4211CBA8C</key>
 		<dict>
@@ -146,7 +90,7 @@
 			<key>uniqueIdentifier</key>
 			<string>BA194DB0-760A-4B00-9DBF-AAA4211CBA8C</string>
 		</dict>
-		<key>D0D44C33-E0CE-4D78-A0EF-565BA934B211</key>
+		<key>F6F22491-8781-4C8F-A71B-BEDA42C66623</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -155,35 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D0D44C33-E0CE-4D78-A0EF-565BA934B211.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3ZpbGFcL0Rlc2t0b3BcL0NvZmZlZSBDcmVla1wvQ29mZmVlIENyZWVrLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMzgyMTE1MzEyQjAxQTM3NzAwQjlCRTgwIn0=</string>
-			<key>timeStartedRecording</key>
-			<real>721534110.32634604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build for Previews Coffee Creek</string>
-			<key>uniqueIdentifier</key>
-			<string>D0D44C33-E0CE-4D78-A0EF-565BA934B211</string>
-		</dict>
-		<key>FD6E60B4-7172-4B89-AD31-B740D1190D2D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FD6E60B4-7172-4B89-AD31-B740D1190D2D.xcactivitylog</string>
+			<string>F6F22491-8781-4C8F-A71B-BEDA42C66623.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -194,13 +110,13 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC92aWxhXC9EZXNrdG9wXC9Db2ZmZWUgQ3JlZWtcL0NvZmZlZSBDcmVlay54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>721527678.13170898</real>
+			<real>721534110.32634604</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>721534111.36585295</real>
 			<key>title</key>
 			<string>Build for Previews Coffee Creek</string>
 			<key>uniqueIdentifier</key>
-			<string>FD6E60B4-7172-4B89-AD31-B740D1190D2D</string>
+			<string>F6F22491-8781-4C8F-A71B-BEDA42C66623</string>
 		</dict>
 	</dict>
 </dict>

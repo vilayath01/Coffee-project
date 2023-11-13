@@ -40,40 +40,6 @@
 			<key>uniqueIdentifier</key>
 			<string>96FD9C37-6F12-4BD6-8D3C-5E159203DB41</string>
 		</dict>
-		<key>DF63F2E5-000A-4E7C-BD53-A5F491C2EBFA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DF63F2E5-000A-4E7C-BD53-A5F491C2EBFA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Coffee Creek project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Coffee Creek</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews Coffee Creek</string>
-			<key>timeStartedRecording</key>
-			<real>721527678.13170898</real>
-			<key>timeStoppedRecording</key>
-			<real>721527689.54928899</real>
-			<key>title</key>
-			<string>Build for Previews Coffee Creek</string>
-			<key>uniqueIdentifier</key>
-			<string>DF63F2E5-000A-4E7C-BD53-A5F491C2EBFA</string>
-		</dict>
 	</dict>
 </dict>
 </plist>
