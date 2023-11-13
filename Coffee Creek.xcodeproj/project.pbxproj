@@ -14,6 +14,7 @@
 		382115472B01A37800B9BE80 /* Coffee_CreekTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382115462B01A37800B9BE80 /* Coffee_CreekTests.swift */; };
 		382115512B01A37800B9BE80 /* Coffee_CreekUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382115502B01A37800B9BE80 /* Coffee_CreekUITests.swift */; };
 		382115532B01A37800B9BE80 /* Coffee_CreekUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382115522B01A37800B9BE80 /* Coffee_CreekUITestsLaunchTests.swift */; };
+		382115602B01F4DD00B9BE80 /* SpalshScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3821155F2B01F4DD00B9BE80 /* SpalshScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3821154C2B01A37800B9BE80 /* Coffee CreekUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coffee CreekUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		382115502B01A37800B9BE80 /* Coffee_CreekUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee_CreekUITests.swift; sourceTree = "<group>"; };
 		382115522B01A37800B9BE80 /* Coffee_CreekUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee_CreekUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3821155F2B01F4DD00B9BE80 /* SpalshScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpalshScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				382115372B01A37700B9BE80 /* ContentView.swift */,
 				382115392B01A37800B9BE80 /* Assets.xcassets */,
 				3821153B2B01A37800B9BE80 /* Preview Content */,
+				3821155F2B01F4DD00B9BE80 /* SpalshScreen.swift */,
 			);
 			path = "Coffee Creek";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				382115382B01A37700B9BE80 /* ContentView.swift in Sources */,
+				382115602B01F4DD00B9BE80 /* SpalshScreen.swift in Sources */,
 				382115362B01A37700B9BE80 /* Coffee_CreekApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
