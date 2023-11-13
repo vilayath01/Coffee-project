@@ -8,19 +8,41 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var selectedTap: Int = 0
+    
     var body: some View {
-        VStack {
-            Image(systemName: "star")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("This is awesome")
+        TabView(selection: $selectedTap) {
+            CoffeeListView()
+                .tabItem {
+                    Image(systemName: "house.fill")
+                    Text("Menu")
+                }
+                .tag(0)
+            Text("Favorites")
+                .tabItem {
+                    Image(systemName: "heart.fill")
+                    Text("Favorites")
+                }
+                .tag(1)
+            Text("Profile")
+                .tabItem {
+                    Image(systemName: "person.fill")
+                    Text("Profile")
+                }
+                .tag(2)
         }
-        .padding()
     }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
+    struct CoffeeListView: View {
+        var body: some View {
+            NavigationView{
+                Text("Coffee Menu").navigationTitle("Menu")
+            }
+        }
+    }
+    
+    struct ContentView_Previews: PreviewProvider {
+        static var previews: some View {
+            ContentView()
+        }
     }
 }
