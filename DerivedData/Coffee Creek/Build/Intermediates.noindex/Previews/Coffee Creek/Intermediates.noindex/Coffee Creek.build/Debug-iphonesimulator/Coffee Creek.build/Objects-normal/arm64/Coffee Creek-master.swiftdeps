@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "46c82284dd232222d4cd5d087fbb28d2dfd9d198eb77eb9e280d1d8c7eb7f2d3"
+build_start_time: [1699841310, 801207000]
+build_end_time: [1699841311, 364269000]
+inputs:
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/Coffee_CreekApp.swift": [1699834871, 573267380]
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/ContentView.swift": [1699839445, 834876831]

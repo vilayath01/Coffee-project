@@ -1,0 +1,103 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "57441d74e497736061e7ae84351560e177fc542669fec689ddcbd19cd37cf6b6",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Products",
+          "derivedDataPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex/Previews/Coffee Creek/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex/Previews/Coffee Creek/Intermediates.noindex",
+              "SYMROOT" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex/Previews/Coffee Creek/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "54358125-0722-4EDE-A423-2C67B1D73578",
+              "TARGET_DEVICE_MODEL" : "iPhone15,2",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/vila/Desktop/Coffee Creek/Coffee Creek.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Products",
+      "derivedDataPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "54358125-0722-4EDE-A423-2C67B1D73578",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

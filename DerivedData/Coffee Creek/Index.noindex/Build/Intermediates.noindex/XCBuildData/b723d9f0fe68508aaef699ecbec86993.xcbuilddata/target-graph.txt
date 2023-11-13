@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Coffee Creek in Coffee Creek, no dependencies
+Coffee Creek in Coffee Creek, no dependencies
+Coffee CreekTests in Coffee Creek, depends on:
+Coffee Creek in Coffee Creek (explicit)
+Coffee CreekTests in Coffee Creek, depends on:
+Coffee Creek in Coffee Creek (explicit)
+Coffee CreekTests in Coffee Creek, no dependencies
+Coffee CreekUITests in Coffee Creek, depends on:
+Coffee Creek in Coffee Creek (explicit)
+Coffee CreekUITests in Coffee Creek, depends on:
+Coffee Creek in Coffee Creek (explicit)
+Coffee CreekUITests in Coffee Creek, no dependencies
