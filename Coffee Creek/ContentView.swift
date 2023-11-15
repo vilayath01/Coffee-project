@@ -31,6 +31,7 @@ struct ContentView: View {
                 }
                 .tag(2)
         }
+        .background(Color.brown)
     }
     struct CoffeeListView: View {
         var body: some View {
