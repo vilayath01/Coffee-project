@@ -11,7 +11,9 @@ import SwiftUI
 struct Coffee_CreekApp: App {
     var body: some Scene {
         WindowGroup {
-            SpalshScreen()
+            ContentView()
+//            SpalshScreen()
+//            CoffeeList()
         }
     }
 }
