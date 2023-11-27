@@ -21,3 +21,4 @@
 *.plist
 *.h
 *.swift
+*DerivedData/
