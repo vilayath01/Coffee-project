@@ -21,4 +21,15 @@
 *.plist
 *.h
 *.swift
-*DerivedData/
+# Ignore Xcode build files
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+*.dSYM.zip
+*.dSYM
+*.app.dSYM
+*.swiftdoc
+*.swiftdoc/
+*.build/
