@@ -1,1 +1,33 @@
-{"":{"dependencies":"/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.d","diagnostics":"/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.dia","emit-module-dependencies":"/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master-emit-module.d","emit-module-diagnostics":"/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master-emit-module.dia","swift-dependencies":"/Users/vila/Desktop/Coffee Creek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.swiftdeps"},"/Users/vila/Desktop/Coffee Creek/Coffee Creek/Coffee_CreekApp.swift":{},"/Users/vila/Desktop/Coffee Creek/Coffee Creek/ContentView.swift":{}}
+{
+  "" : {
+    "dependencies" : "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.d",
+    "diagnostics" : "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.dia",
+    "emit-module-dependencies" : "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/Objects-normal/arm64/Coffee Creek-master.swiftdeps"
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/Coffee_CreekApp.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/Model/Model.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/Model/Networking.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/SpalshScreen.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/view/CoffeePlace.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/view/ContentView.swift" : {
+
+  },
+  "/Users/vila/Desktop/Coffee Creek/Coffee Creek/view/ListItemView.swift" : {
+
+  },
+  "/Users/vila/Desktop/CoffeeCreek/DerivedData/Coffee Creek/Index.noindex/Build/Intermediates.noindex/Coffee Creek.build/Debug-iphonesimulator/Coffee Creek.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

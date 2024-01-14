@@ -1,10 +1,18 @@
 {
-  "source": "/Users/vila/Desktop/Coffee Creek/Coffee Creek/ContentView.swift",
+  "source": "/Users/vila/Desktop/Coffee Creek/Coffee Creek/view/ContentView.swift",
   "tables": {
     "Localizable": [
       {
         "comment": "",
-        "key": "Hello, world!"
+        "key": "Profile"
+      },
+      {
+        "comment": "",
+        "key": "Menu"
+      },
+      {
+        "comment": "",
+        "key": "Favorites"
       }
     ]
   },

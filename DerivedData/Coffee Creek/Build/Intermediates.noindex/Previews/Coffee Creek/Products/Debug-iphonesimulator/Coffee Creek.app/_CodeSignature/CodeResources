@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		Pxs+9XUewD6LN6Vc9+zoqla8bVc=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		hEf0VmFiL0aTi8xlnwBUGEQFiFk=
+		726tlQ2Pnh++yyGpGgmbkscmvmw=
+		</data>
+		<key>MockNearMeSearch.json</key>
+		<data>
+		Z+37/dQgvPa3fsTj0wuavzYFGgQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -14,7 +22,22 @@
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lYc3MNfS60j10XQawTUHUfKWpL8xCKFPNoCQrCnDX74=
+			</data>
+		</dict>
+		<key>MockNearMeSearch.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7kgStgnLspOcCeTtkZZA/UWJOjn6jHPYBakQdht2zVo=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
